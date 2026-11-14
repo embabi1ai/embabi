@@ -1,0 +1,20 @@
+[app]
+title = مساعد العنبر
+package.name = poultryassistant
+package.domain = org.poultry
+source.include_exts = py,png,jpg,kv,atlas,db
+source.include_dir = assets
+version = 1.0.0
+requirements = python3,kivy,sqlite3
+orientation = portrait
+osx.python_version = 3
+osx.kivy_version = 1.9.1
+fullscreen = 0
+android.permissions = INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,POST_NOTIFICATIONS,SCHEDULE_EXACT_ALARM
+android.api = 34
+android.minapi = 24
+android.sdk = 34
+android.ndk = 25b
+android.gradle_dependencies = 
+android.archs = arm64-v8a, armeabi-v7a
+p4a.branch = master
