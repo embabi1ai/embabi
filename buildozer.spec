@@ -1,5 +1,5 @@
 [app]
-title = مساعد العنبر
+title = missssd
 package.name = poultryassistant
 package.domain = org.poultry
 source.include_exts = py,png,jpg,kv,atlas,db
